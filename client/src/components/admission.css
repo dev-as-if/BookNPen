@@ -1,0 +1,70 @@
+.admissions-container {
+  padding: 3rem;
+  background-color: #6d36e3;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.admissions-header .title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: #030509;
+}
+
+.admissions-header .subtitle {
+  font-size: 1.8rem;
+  color: #ecf0f5;
+  margin-bottom: 1rem;
+}
+
+.admissions-header .intro {
+  font-size: 1.3rem;
+  max-width: 900px;
+  margin: 0 auto 2rem auto;
+  color: #333;
+  text-align: center;
+}
+
+.admissions-section {
+  margin-bottom: 2.5rem;
+}
+
+.section-heading {
+  font-size: 1.8rem;
+  color: #e7e8eb;
+  margin-bottom: 1rem;
+  border-left: 4px solid #0456c8;
+  padding-left: 1rem;
+}
+
+.admissions-point {
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  color: rgb(11, 11, 11);
+}
+
+.point-title {
+  font-weight: bold;
+  font-size: 1.6rem;
+  color: #111;
+  margin-bottom: 0.3rem;
+}
+
+.point-details {
+  margin-left: 2rem;
+  font-size: 1.4rem;
+  color: #fbf3f3;
+}
+
+.point-details li {
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+}
+
+.admissions-quote {
+  margin-top: 3rem;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #f7f9fb;
+  border-left: 4px solid #0072ce;
+  padding-left: 1rem;
+}

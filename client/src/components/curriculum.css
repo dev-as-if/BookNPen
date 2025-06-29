@@ -1,0 +1,74 @@
+.curriculum-section {
+  background-color: #6d36e3;
+}
+
+.section-heading {
+  font-size: 2.2rem;
+  color: #007bff;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  color: #ecdada;
+}
+
+.intro-text {
+  font-size: 1.4rem;
+  color: #f4f1f1;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.curriculum-card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+  cursor: pointer;
+  color: #333;
+  transition: all 0.3s ease;
+  text-align: center;
+  border: 2px solid transparent;
+}
+
+.curriculum-card:hover {
+  transform: translateY(-5px);
+  border-color: #007bff;
+  box-shadow: 0 6px 16px rgba(0, 123, 255, 0.25);
+}
+
+.curriculum-card.active {
+  border-color: #007bff;
+  background-color: #f1f9ff;
+}
+
+.card-icon {
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.card-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.card-content {
+  margin-top: 15px;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.card-content h6 {
+  font-weight: 600;
+  color: #333;
+}
+
+.card-content ul li {
+  margin-bottom: 6px;
+}

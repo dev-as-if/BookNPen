@@ -1,0 +1,867 @@
+{
+  "Header": {
+    "title": "Book & Pen Public School",
+    "paragraph": "Book & Pen Public School is a premier educational institution dedicated to providing quality education and fostering holistic development in students. Our mission is to create a nurturing environment that encourages academic excellence, character building, and social responsibility.",
+    "carouselImages": [
+      "img/portfolio/25-large.jpg",
+      "img/portfolio/28-large.jpg",
+      "img/portfolio/02-large.jpg",
+      "img/portfolio/04-large.jpg",
+      "img/portfolio/40-large.jpg",
+      "img/portfolio/03-large.jpg"
+    ]
+  },
+  "About": {
+    "heading": "Welcome to",
+    "title": "BOOK & PEN PUBLIC SCHOOL",
+    "paragraphs": [
+      "Book & Pen Public School is a distinctive initiative of the Bihar Anjuman Riyadh Chapter, dedicated to providing high-quality education to underprivileged and deserving students.",
+      "Book & Pen Public School is a beacon of hope and opportunity for underprivileged children in Bihar. Established with the belief that every child deserves access to quality education, regardless of their socio-economic background, our school is committed to nurturing young minds, igniting curiosity, and empowering the next generation.",
+      "At Book & Pen Public School, we provide a safe, inclusive, and stimulating environment where children from poor and needy families and economically weaker sections can learn, grow, and realize their full potential. Our dedicated teachers and staff work tirelessly to ensure that each student receives not only academic instruction but also moral guidance, life skills, and emotional support. We believe education is the most powerful tool to break the cycle of poverty and build a brighter future for our community and nation."
+    ],
+    "backgroundImage": "img/about-bg.jpg"
+  },
+  "Mission": {
+    "heading": "Welcome to Book & Pen Public School",
+    "title": "Our Mission",
+    "paragraphs": [
+      "To provide quality education through a scholarship-based model, ensuring that children from poor and needy backgrounds receive free education, while also welcoming those who can pay partially or fully—creating an inclusive learning environment where every child has the opportunity to succeed."
+    ]
+  },
+  "Vision": {
+    "heading": "Welcome to Book & Pen Public School",
+    "title": "Our Vision",
+    "paragraphs": [
+      "At Book & Pen Public School, our vision is to create a brighter and more equitable future for every child in Bihar. We are committed to expanding our reach and making quality education accessible to the poorest and most vulnerable children across the state. We aspire to establish a branch of Book & Pen Public School in every district of Bihar, ensuring that no child is left behind due to poverty or circumstance. By building a network of schools dedicated to holistic development, we aim to empower thousands of children with the knowledge, skills, and confidence they need to transform their lives and communities."
+    ],
+    "highlight": "TOGETHER, WE ARE WORKING TOWARDS A BIHAR WHERE EVERY CHILD HAS THE OPPORTUNITY TO LEARN, GROW AND ACHIEVE THEIR DREAMS REGARDLESS OF THEIR BACKGROUND."
+  },
+  "Core-Values": {
+    "heading": "Our Core Values",
+    "title": "What Guides Us at Book & Pen Public School",
+    "values": [
+      "Inclusivity: Welcoming children from all backgrounds and treating each child with dignity and respect.",
+      "Excellence: Striving for the highest standards in teaching, learning, and personal development.",
+      "Compassion: Fostering empathy, kindness, and social responsibility in our students.",
+      "Integrity: Upholding honesty, transparency, and ethical conduct in all our actions.",
+      "Empowerment: Equipping students with the confidence and skills to shape their own futures."
+    ],
+    "commitment": {
+      "title": "Our Commitment",
+      "weProvide": [
+        "Books and uniforms",
+        "Life skills and vocational training",
+        "Counseling and mentorship programs",
+        "Opportunities for sports, arts, and cultural activities"
+      ],
+      "highlight": "TOGETHER, WE ARE OPENING DOORS TO KNOWLEDGE, BREAKING DOWN BARRIERS, AND WRITING NEW STORIES OF HOPE AND ACHIEVEMENT—ONE CHILD AT A TIME."
+    }
+  },
+  "Curriculum": {
+    "title": "At Book & Pen Public School, our curriculum is thoughtfully designed to nurture well-rounded, confident, and capable individuals.",
+    "intro": "We blend academic excellence with life skills, values, and creativity to ensure every child is prepared for success in school and beyond.",
+    "sections": {
+      "Academic Subjects": {
+        "Languages": [
+          "English",
+          "Hindi",
+          "Urdu",
+          "Islamic Studies (Arabic)"
+        ],
+        "Mathematics": [
+          "Arithmetic",
+          "Algebra",
+          "Geometry",
+          "Applied Mathematics"
+        ],
+        "Science": [
+          "General Science (Primary)",
+          "Physics",
+          "Chemistry",
+          "Biology"
+        ],
+        "Social Studies": [
+          "History",
+          "Geography",
+          "Civics",
+          "Economics"
+        ],
+        "Computer Education": [
+          "Basic Computer Skills",
+          "Internet Safety",
+          "Coding Fundamentals"
+        ]
+      },
+      "Holistic Development": {
+        "Life Skills": [
+          "Communication",
+          "Problem-Solving",
+          "Critical Thinking",
+          "Financial Literacy"
+        ],
+        "Moral & Value Education": [
+          "Ethics",
+          "Empathy",
+          "Social Responsibility"
+        ],
+        "Health & Physical Education": [
+          "Physical Fitness",
+          "Yoga & Meditation",
+          "Sports & Games"
+        ]
+      },
+      "Creative & Co-curricular Activities": {
+        "Arts & Crafts": [
+          "Drawing",
+          "Painting",
+          "Handicrafts"
+        ],
+        "Public Speaking": [
+          "Elocution",
+          "Debates",
+          "Stage Performances"
+        ]
+      },
+      "Special Initiatives": {
+        "Scholarship & Mentorship Programs": [
+          "Personalized academic support for scholarship students",
+          "Mentorship for career and personal growth"
+        ],
+        "Community Service": [
+          "Participation in social and environmental projects",
+          "Leadership and teamwork development"
+        ]
+      },
+      "Assessment & Progress": {
+        "Highlights": [
+          "Regular assessments and feedback to track academic and personal growth",
+          "Parent-teacher meetings to ensure collaborative development",
+          "Remedial classes for students needing extra support"
+        ]
+      }
+    }
+  },
+  "Methodology": {
+    "heading": "Our Methodology",
+    "title": "Blending Traditional Values with Modern Educational Practices",
+    "introduction": "At Book & Pen Public School, we believe that every child learns best in an environment that is supportive, inclusive, and engaging. Our teaching methodology blends traditional values with modern educational practices to ensure holistic development for every student.",
+    "features": [
+      {
+        "title": "Student-Centered Learning",
+        "description": "We place students at the heart of the learning process, encouraging curiosity, creativity, and active participation in the classroom."
+      },
+      {
+        "title": "Interactive Teaching",
+        "description": "Lessons are delivered through discussions, group activities, experiments, and real-life examples to make learning meaningful and enjoyable."
+      },
+      {
+        "title": "Integrated Curriculum",
+        "description": "Academic subjects are taught alongside life skills, moral education, and co-curricular activities for balanced growth."
+      },
+      {
+        "title": "Modern Islamic Perspective",
+        "description": "We integrate contemporary Islamic studies with general education, helping students connect faith with daily life and modern challenges."
+      },
+      {
+        "title": "Differentiated Instruction",
+        "description": "Teaching is tailored to meet the diverse needs and learning styles of our students, ensuring that every child can progress at their own pace."
+      },
+      {
+        "title": "Continuous Assessment",
+        "description": "We use regular assessments, feedback, and parent-teacher meetings to monitor progress and provide additional support where needed."
+      },
+      {
+        "title": "Technology-Enabled Learning",
+        "description": "Digital tools and resources are used to enhance understanding, especially in computer education and research projects."
+      },
+      {
+        "title": "Community and Parental Involvement",
+        "description": "We actively involve parents and the community in the educational journey, fostering a collaborative and supportive environment."
+      }
+    ],
+    "quote": "Our goal is to nurture confident, compassionate, and capable individuals who are ready to succeed academically and contribute positively to society."
+  },
+  "Assessment": {
+    "intro": "At Book & Pen Public School, we believe that assessment is a vital part of the learning process. Our approach to assessment is designed to support student growth, recognize achievements, and identify areas where additional help is needed.",
+    "features": [
+      {
+        "title": "Continuous Evaluation",
+        "description": "Regular class tests, quizzes, and assignments to monitor day-to-day understanding."
+      },
+      {
+        "title": "Term Examinations",
+        "description": "Formal exams at the end of each term to assess overall academic progress."
+      },
+      {
+        "title": "Project Work",
+        "description": "Hands-on projects and group assignments to encourage creativity, teamwork, and real-world application of knowledge."
+      },
+      {
+        "title": "Oral Assessments",
+        "description": "Presentations, recitations, and debates to build confidence and communication skills."
+      },
+      {
+        "title": "Skill-Based Evaluation",
+        "description": "Assessment of life skills, moral values, and co-curricular activities to ensure holistic development."
+      },
+      {
+        "title": "Personalized Feedback",
+        "description": "Detailed feedback for students and regular parent-teacher meetings to discuss progress and support learning at home."
+      },
+      {
+        "title": "Remedial Support",
+        "description": "Extra classes and mentoring for students who need additional help to reach their full potential."
+      }
+    ],
+    "quote": "Our assessment system is designed to motivate students, celebrate their achievements, and guide them on their journey to academic and personal success."
+  },
+  "Facilities": {
+    "intro": "Book and Pen Public School in Bihar, like many quality schools in the region, typically provides a range of facilities to support students’ academic, physical, and personal development. The following list summarizes the common facilities offered by Book & Pen Public School in Bihar, based on regional standards and comparable institutions:",
+    "categories": [
+      {
+        "name": "Academic Facilities",
+        "items": [
+          "-> Well-Equipped Classrooms: Spacious, well-lit, and ventilated classrooms, often with child-friendly furniture and smart class technology for interactive learning.",
+          "-> Library: A well-stocked library with a wide variety of books, magazines, newspapers, and reference materials to encourage reading habits and support academic work.",
+          "-> Science Laboratories: Separate and fully equipped labs for Physics, Chemistry, Biology, and General Science, allowing practical, hands-on learning.",
+          "-> Computer Lab: Modern computer facilities with internet access to promote digital literacy and technology skills.",
+          "-> Digital Classrooms/Smart Classes: Use of projectors, interactive boards, and audio-visual aids to enhance the teaching-learning experience."
+        ]
+      },
+      {
+        "name": "Islamic and Moral Education",
+        "items": [
+          "-> Integrated Islamic Curriculum: Compulsory Islamic Studies with a focus on Quran, Hadith, Islamic history, and moral values, taught in Urdu and Arabic where appropriate.",
+          "-> Tarbiyyah and Character Building: Regular sessions on Islamic ethics, peace, tolerance, and universal brotherhood.",
+          "-> Prayer Area: Dedicated space for daily prayers and religious observances."
+        ]
+      },
+      {
+        "name": "Student Support and Safety",
+        "items": [
+          "-> Transportation: School buses covering multiple routes to ensure safe and convenient travel for students from various areas.",
+          "-> Safety and Security: CCTV surveillance, secure campus entry points, and staff trained in student safety protocols.",
+          "-> Clean Drinking Water and Sanitation: 24/7 supply of filtered drinking water and hygienic bathroom facilities."
+        ]
+      },
+      {
+        "name": "Additional Facilities",
+        "items": [
+          "-> Parent-Teacher Meetings: Regular opportunities for parents to discuss their child’s progress with teachers.",
+          "-> Awards and Recognition: Annual awards, prizes, and certificates for academic excellence, sports, and co-curricular achievements."
+        ]
+      }
+    ]
+  },
+  "Activities": {
+    "intro": "Here is a list of common activities conducted in a Book & Pen Public School in Bihar. These activities are designed to promote holistic development among students and are generally found in both government and private schools across the state.",
+    "categories": [
+      {
+        "name": "Academic Activities",
+        "items": [
+          "Regular Classroom Teaching: Core subjects like Mathematics, Science, Social Studies, Hindi, English, and regional languages.",
+          "Homework and Assignments: Daily/weekly assignments to reinforce classroom learning.",
+          "Examinations and Tests: Periodic assessments, mid-term exams, and annual exams.",
+          "Library Periods: Access to books and reading sessions to encourage reading habits.",
+          "Science and Math Projects: Hands-on experiments, model making, and project work."
+        ]
+      },
+      {
+        "name": "Co-curricular Activities",
+        "items": [
+          "Debates and Elocution: Competitions to enhance speaking and reasoning skills.",
+          "Essay Writing and Drawing Competitions: To foster creativity and expression.",
+          "Cultural Programs: Celebrations of festivals, annual day, and special assemblies.",
+          "Art and Craft: Activities involving drawing, painting, and handicrafts."
+        ]
+      },
+      {
+        "name": "Sports and Physical Activities",
+        "items": [
+          "Physical Education Classes: Regular PT (Physical Training) periods.",
+          "Sports Competitions: Cricket, football, kabaddi, kho-kho, and athletics.",
+          "Yoga and Meditation: Sessions for physical and mental well-being."
+        ]
+      },
+      {
+        "name": "Social and Community Activities",
+        "items": [
+          "Cleanliness Drives: Swachh Bharat Abhiyan participation and campus cleaning.",
+          "Tree Plantation: Environmental awareness through plantation drives.",
+          "Awareness Campaigns: Rallies and programs on health, hygiene, and social issues."
+        ]
+      },
+      {
+        "name": "Special Activities",
+        "items": [
+          "Science and Art Exhibitions: Showcasing student projects and artwork.",
+          "Workshops and Seminars: On topics like career guidance, health, and technology.",
+          "Excursions and Educational Trips: Visits to historical places, museums, and science centers."
+        ]
+      }
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/01-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/02-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/03-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/04-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/05-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/06-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/07-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/08-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/09-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/10-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/11-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/12-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/13-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/14-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/15-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/16-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/17-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/18-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/19-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/20-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/21-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/22-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/23-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/24-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/25-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/26-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/27-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/28-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/29-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/30-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/31-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/32-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/33-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/34-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/35-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/36-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/37-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/38-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/39-large.jpg"
+    },
+    {
+      "title": "School Gallery",
+      "largeImage": "img/portfolio/40-large.jpg"
+    }
+  ],
+  "AdmissionDetails": {
+    "title": "Admissions",
+    "subtitle": "Committed to Inclusive Education",
+    "intro": "Book & Pen Public School is committed to inclusive education. We offer full and partial fee waivers for students from economically weaker backgrounds, especially from minority communities. Our goal is to ensure that financial constraints do not hinder any child’s right to quality education.",
+    "sections": [
+      {
+        "heading": "Admission Criteria for Poor and Partially Paying Students",
+        "points": [
+          {
+            "title": "Eligibility Documentation",
+            "details": [
+              "Proof of family income (such as income certificate issued by a government authority).",
+              "BPL (Below Poverty Line) card or ration card, if applicable.",
+              "Address proof and student’s birth certificate."
+            ]
+          },
+          {
+            "title": "Academic Requirements",
+            "details": [
+              "For entry-level classes (Nursery to Class I): No prior academic requirements; age as per norms (e.g., 6 years for Class I as of July 31).",
+              "For higher classes: Submission of previous class report card and bonafide certificate."
+            ]
+          },
+          {
+            "title": "Admission Process",
+            "details": [
+              "Fill out the admission/registration form (offline only).",
+              "Attach all required documents.",
+              "Interaction or basic assessment if needed.",
+              "Meeting with parents to assess need and verify documents.",
+              "Shortlisting based on merit, need, and seat availability."
+            ]
+          },
+          {
+            "title": "Fee Waiver/Concession Policy",
+            "details": [
+              "Full-fee waiver for students from extremely poor backgrounds (as verified and approved by BPPS Management).",
+              "Partial fee concession for families with limited financial capacity.",
+              "Flexible payment plans for eligible families.",
+              "Scholarships based on academic performance or special cases."
+            ]
+          },
+          {
+            "title": "Reservation and Priority",
+            "details": [
+              "Priority for children from minority and economically weaker sections.",
+              "Reserved seats as per school policy."
+            ]
+          },
+          {
+            "title": "Note",
+            "details": [
+              "Selection and fees waiver are fully decided by BPPS Management.",
+              "Forms are only available physically at BPPS campus."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Admission Categories",
+        "points": [
+          {
+            "title": "Full Scholarship (100%)",
+            "details": [
+              "For underprivileged students who cannot afford any fees.",
+              "Requires strong documentation and possible academic or social merit."
+            ]
+          },
+          {
+            "title": "Partial Scholarship (25%-50%)",
+            "details": [
+              "For low-income families who can contribute partially.",
+              "May be awarded based on merit or special skills."
+            ]
+          },
+          {
+            "title": "Full Fees Admission",
+            "details": [
+              "Open to all eligible students who can pay full tuition fees.",
+              "Entrance test may be conducted for grade placement."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Admission Process",
+        "points": [
+          {
+            "title": "Step 1: Application Submission",
+            "details": [
+              "Collect admission form (offline).",
+              "Submit required documents as per category."
+            ]
+          },
+          {
+            "title": "Step 2: Screening & Verification",
+            "details": [
+              "Financial check for scholarship applicants.",
+              "Eligibility check for fee-paying applicants."
+            ]
+          },
+          {
+            "title": "Step 3: Entrance Test / Interview",
+            "details": [
+              "Assessment conducted if required for class placement or merit-based admission."
+            ]
+          },
+          {
+            "title": "Step 4: Selection & Approval",
+            "details": [
+              "Final list published.",
+              "Scholarship reviewed by committee."
+            ]
+          },
+          {
+            "title": "Step 5: Admission Confirmation",
+            "details": [
+              "Sponsorship confirmation (for scholarship).",
+              "Fee payment (for others)."
+            ]
+          },
+          {
+            "title": "Step 6: Orientation & Enrollment",
+            "details": [
+              "Orientation program conducted.",
+              "Classroom and materials assigned."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Additional Considerations",
+        "points": [
+          {
+            "title": "Annual Review for Scholarship Students",
+            "details": [
+              "Performance and attendance reviewed annually."
+            ]
+          },
+          {
+            "title": "Quota Management",
+            "details": [
+              "Transparent tracking of full, partial, and paid admissions."
+            ]
+          },
+          {
+            "title": "Community & Donor Engagement",
+            "details": [
+              "Partner with organizations to sustain scholarships."
+            ]
+          }
+        ]
+      }
+    ],
+    "closingQuote": "We believe no child should be left behind due to financial barriers — education is a right, not a privilege."
+  },
+  "CareerDetails": {
+    "title": "Career Opportunities at Book & Pen Public School",
+    "intro": "At Book & Pen Public School, we believe that our teachers and staff are the foundation of our success. We are always looking for dedicated, qualified, and passionate professionals to join our vibrant team and contribute to the holistic development of our students.",
+    "sections": [
+      {
+        "heading": "Openings",
+        "description": "Interested candidates may send their applications any time of the year. However, candidates will be contacted depending upon the openings.",
+        "subsections": [
+          {
+            "title": "Teaching Positions",
+            "items": [
+              "Pre-Primary Teachers (Nursery, LKG, UKG)",
+              "Primary Teachers (All Subjects)",
+              "TGT/PGT Teachers (English, Hindi, Urdu, Mathematics, Science, Social Studies, Islamic Studies, Computer Science)",
+              "Language Teachers (Urdu, Arabic)",
+              "Physical Education Teacher",
+              "Art & Craft Teacher",
+              "Music & Dance Teacher"
+            ]
+          },
+          {
+            "title": "Non-Teaching Positions",
+            "items": [
+              "Librarian",
+              "Lab Assistant (Science/Computer)",
+              "Office Assistant/Clerk",
+              "Receptionist",
+              "School Nurse/Medical Attendant",
+              "Bus Driver & Attendant",
+              "Security Personnel"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "General Requirements",
+        "subsections": [
+          {
+            "title": "Educational Qualifications",
+            "items": [
+              "As per CBSE/State Board norms for the respective posts (e.g., B.Ed./D.El.Ed./M.A./M.Sc./B.Lib/Relevant Diploma)."
+            ]
+          },
+          {
+            "title": "Experience",
+            "items": [
+              "Prior teaching or relevant work experience is preferred.",
+              "Freshers with strong subject knowledge and passion for teaching may also apply."
+            ]
+          },
+          {
+            "title": "Language Proficiency",
+            "items": [
+              "Good command over English and/or Urdu.",
+              "Additional language skills (Hindi, Arabic) are an advantage."
+            ]
+          },
+          {
+            "title": "Skills",
+            "items": [
+              "Effective communication",
+              "Classroom management",
+              "Creativity",
+              "Teamwork",
+              "Commitment to student welfare"
+            ]
+          },
+          {
+            "title": "For Islamic Studies Teachers",
+            "items": [
+              "Adequate qualification in Islamic Studies",
+              "Proficiency in Urdu/Arabic",
+              "Experience in teaching Islamic subjects"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How to Apply",
+        "description": "Interested candidates may submit their updated resume/CV along with a cover letter to:",
+        "contacts": {
+          "email": "enquiry@booknpen.com",
+          "address": "Book & Pen Public School, Meerdeh Toli, Nawada, Bihar.",
+          "note": "Please mention the position applied for in the subject line of your email."
+        }
+      },
+      {
+        "heading": "Why Join Us?",
+        "items": [
+          "Supportive and inclusive work environment",
+          "Opportunities for professional growth and training",
+          "Competitive salary and benefits",
+          "Focus on holistic education and values"
+        ]
+      }
+    ],
+    "closingNote": "“Book & Pen Public School is an equal opportunity employer. We encourage applications from candidates of all backgrounds, including minorities and women.”"
+  },
+  "Placement": [
+    {
+      "img": "img/placements/01-cam.jpg"
+    },
+    {
+      "img": "img/placements/02-cam.jpg"
+    },
+    {
+      "img": "img/placements/03-cam.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-support",
+      "name": "Diploma in Radiology Technology",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of radiology. The course covers topics such as anatomy, physiology, radiographic techniques, and patient care."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Diploma in Operation Theatre Technology ",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of operation theatre technology. The course covers topics such as surgical procedures, anaesthesia, and patient care."
+    },
+    {
+      "icon": "fa fa-book",
+      "name": "Diploma in Medical Lab Technology",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of medical laboratory technology. The course covers topics such as laboratory procedures, diagnostic testing, and patient care."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Diploma in Dialysis Technician",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of dialysis technology. The course covers topics such as renal physiology, dialysis procedures, and patient care."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Bachelor’s in Radiology Technology",
+      "text": "Its a 4-year degree program that provides students with the knowledge and skills needed to work in the field of radiology. The program covers topics such as anatomy, physiology, radiographic techniques, and patient care."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Bachelor’s in Operation Theatre Technology",
+      "text": "Its a 4-year degree program that provides students with the knowledge and skills needed to work in the field of operation theatre technology. The program covers topics such as surgical procedures, anaesthesia, and patient care."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Bachelor’s in Medical Lab Technology",
+      "text": "Its a 4-year degree program that provides students with the knowledge and skills needed to work in the field of medical laboratory technology. The program covers topics such as laboratory procedures, diagnostic testing, and patient care."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Certificate in Medical Dresser",
+      "text": "Its a 6-month certificate course that provides students with the knowledge and skills needed to work as a medical dresser. The course covers topics such as wound care, dressing techniques, and patient care."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Asif Alam"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Amjad Ali"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Asif Alam"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Amjad Ali"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Asif Alam"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Amjad Ali"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Md Intakhab",
+      "job": "Principal, APMI"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Md Shahjahan",
+      "job": "BMLT"
+    }
+  ],
+  "Contact": {
+    "address": "Meerdeh toli, Landmark - Alia mansion, At & PO Nawadah, Pin - 805110",
+    "phone": "+91 7320050572",
+    "email": "enquiry@booknpen.com",
+    "facebook": "fb.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-book",
+      "title": "Free Computer Course",
+      "text": "We offer free computer courses for students who are interested in learning more about technology and its applications."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Highly Professional Staff",
+      "text": "Our staff is highly professional and experienced in their respective fields, ensuring that students receive the best education possible."
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "Affordable fees",
+      "text": "We offer affordable fees for our courses, making it accessible for everyone to pursue their education."
+    },
+    {
+      "icon": "fa fa-support",
+      "title": "Placement Assistance",
+      "text": "We provide placement assistance to our students, helping them secure internships and job opportunities in their field."
+    }
+  ],
+  "trainingVideos": [
+    {
+      "title": "React Basics",
+      "url": "https://www.youtube.com/embed/dGcsHMXbSOA",
+      "description": "Learn the fundamentals of React in this introductory video."
+    },
+    {
+      "title": "Bootstrap Tutorial",
+      "url": "https://www.youtube.com/embed/-qfEOE4vtxE",
+      "description": "Master responsive design with Bootstrap."
+    },
+    {
+      "title": "Responsive Design",
+      "url": "https://www.youtube.com/embed/srvUrASNj0s",
+      "description": "Make your websites look great on all devices."
+    }
+  ],
+  "homepage": {
+    "url": "https://code-asif.github.io/APMI/",
+    "url2": "https://www.apmiindia.com",
+    "url3": "https://dev-as-if.github.io/BPPS/"
+  }
+}

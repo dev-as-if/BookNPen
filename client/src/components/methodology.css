@@ -1,0 +1,120 @@
+/* .about-section {
+  background-color: #6d36e3;
+}
+
+.section-heading {
+  color: #5784ed;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-top: 10px;
+  color: #f5f4fa;
+}
+
+.section-intro {
+  margin: 20px auto 40px;
+  max-width: 800px;
+  font-size: 1.1rem;
+  color: #f7efef;
+}
+
+.methodology-card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: left;
+}
+
+.methodology-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  border-color: #5784ed;
+}
+
+.methodology-card .card-title {
+  color: #0056b3;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.methodology-card .card-text {
+  color: #555;
+  font-size: 1rem;
+}
+
+.highlight-text {
+  color: #faf3f3;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+} */
+
+.methodology-section {
+  padding-top: 4rem;
+  background-color: #6d36e3;
+}
+
+.methodology-heading {
+  color: #151515;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.2rem;
+}
+
+.methodology-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-top: 10px;
+  color: #f5f4fa;
+}
+
+.methodology-intro {
+  margin: 20px auto 40px;
+  max-width: 800px;
+  font-size: 1.1rem;
+  color: #f7efef;
+}
+
+.methodology-card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: left;
+}
+
+.methodology-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  border-color: #5784ed;
+}
+
+.methodology-card .methodology-card-title {
+  color: #0056b3;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.methodology-card .methodology-card-text {
+  color: #555;
+  font-size: 1rem;
+}
+
+.methodology-highlight {
+  color: #faf7f7;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
