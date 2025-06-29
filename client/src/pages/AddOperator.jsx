@@ -15,7 +15,7 @@ const AddOperator = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/admin/add-operator", form, {
+      await axios.post("https://booknpen.onrender.com/api/admin/add-operator", form, {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       setMessage("Operator added successfully");

@@ -69,7 +69,7 @@ const SearchStudent = () => {
     if (!query) return setMessage("Enter name or roll number");
 
     try {
-      const res = await axios.get(`http://localhost:5000/api/students/search`, {
+      const res = await axios.get(`https://booknpen.onrender.com/api/students/search`, {
         headers: { Authorization: `Bearer ${getToken()}` },
         params: { query },
       });

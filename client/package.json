@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "bpps",
   "private": true,
   "dependencies": {

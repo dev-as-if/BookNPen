@@ -164,7 +164,7 @@ const StudentAdmission = () => {
   const fetchSuggestions = async () => {
     try {
       const res = await axios.get(
-        `http://localhost:5000/api/operator/roll-suggestions?q=${data.rollNumber}`,
+        `https://booknpen.onrender.com/api/operator/roll-suggestions?q=${data.rollNumber}`,
         { headers: { Authorization: `Bearer ${getToken()}` } }
       );
       setSuggestions(res.data);
@@ -179,7 +179,7 @@ const StudentAdmission = () => {
 
   const generateRoll = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/operator/roll-suggestions?q=", {
+      const res = await axios.get("https://booknpen.onrender.com/api/operator/roll-suggestions?q=", {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       const maxRoll = Math.max(...res.data.map(Number), 100000);
@@ -193,7 +193,7 @@ const StudentAdmission = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/operator/admit-student", data, {
+      await axios.post("https://booknpen.onrender.com/api/operator/admit-student", data, {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       setShowConfetti(true);

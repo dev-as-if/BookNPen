@@ -11,7 +11,7 @@ const OperatorViewStudents = () => {
 
   const fetchStudents = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/operator/student", {
+      const res = await axios.get("https://booknpen.onrender.com/api/operator/student", {
         headers: { Authorization: `Bearer ${getToken()}` },
         params: search,
       });

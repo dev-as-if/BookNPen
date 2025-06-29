@@ -162,7 +162,7 @@ const ManageOperators = () => {
 
   const fetchOperators = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/admin/operators", {
+      const res = await axios.get("https://booknpen.onrender.com/api/admin/operators", {
         headers: { Authorization: `Bearer ${token}` },
       });
       setOperators(res.data);
@@ -187,7 +187,7 @@ const ManageOperators = () => {
       if (form.id) {
         // Update
         await axios.put(
-          `http://localhost:5000/api/admin/update-operator/${form.id}`,
+          `https://booknpen.onrender.com/api/admin/update-operator/${form.id}`,
           { username: form.username, password: form.password },
           { headers: { Authorization: `Bearer ${token}` } }
         );
@@ -195,7 +195,7 @@ const ManageOperators = () => {
       } else {
         // Add
         await axios.post(
-          "http://localhost:5000/api/admin/add-operator",
+          "https://booknpen.onrender.com/api/admin/add-operator",
           { username: form.username, password: form.password },
           { headers: { Authorization: `Bearer ${token}` } }
         );
@@ -216,7 +216,7 @@ const ManageOperators = () => {
   const handleDelete = async (id) => {
     if (!window.confirm("Are you sure you want to delete this operator?")) return;
     try {
-      await axios.delete(`http://localhost:5000/api/admin/remove-operator/${id}`, {
+      await axios.delete(`https://booknpen.onrender.com/api/admin/remove-operator/${id}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       setMessage({ type: "success", text: "Operator deleted successfully." });

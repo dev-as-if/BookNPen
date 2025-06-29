@@ -115,7 +115,7 @@ const FilterStudents = () => {
 
   const fetchFilteredStudents = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/students/filter", {
+      const res = await axios.get("https://booknpen.onrender.com/api/students/filter", {
         headers: { Authorization: `Bearer ${getToken()}` },
         params: {
           class: selectedClass,

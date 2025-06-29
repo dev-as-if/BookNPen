@@ -115,7 +115,7 @@ const ViewStudents = () => {
 
   const fetchStudents = useCallback(async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/students/all", {
+      const res = await axios.get("https://booknpen.onrender.com/api/students/all", {
         headers: { Authorization: `Bearer ${getToken()}` },
         params: search,
       });
@@ -138,7 +138,7 @@ const ViewStudents = () => {
     if (!window.confirm("Are you sure you want to delete this student?")) return;
 
     try {
-      await axios.delete(`http://localhost:5000/api/students/${rollNumber}`, {
+      await axios.delete(`https://booknpen.onrender.com/api/students/${rollNumber}`, {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       setMessage("Student deleted successfully.");

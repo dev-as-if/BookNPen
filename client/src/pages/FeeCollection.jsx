@@ -80,7 +80,7 @@ const FeeCollection = () => {
 
   const searchStudent = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/operator/student", {
+      const res = await axios.get("https://booknpen.onrender.com/api/operator/student", {
         headers: { Authorization: `Bearer ${getToken()}` },
         params: { rollNumber },
       });
@@ -105,7 +105,7 @@ const FeeCollection = () => {
 
     try {
       const res = await axios.post(
-        `http://localhost:5000/api/operator/collect-fee/${rollNumber}`,
+        `https://booknpen.onrender.com/api/operator/collect-fee/${rollNumber}`,
         { amount },
         { headers: { Authorization: `Bearer ${getToken()}` } }
       );

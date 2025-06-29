@@ -73,7 +73,7 @@ const OperatorDashboard = () => {
     if (!confirm) return;
 
     try {
-      const res = await axios.put("http://localhost:5000/api/students/promote", {}, {
+      const res = await axios.put("https://booknpen.onrender.com/api/students/promote", {}, {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       alert(`${res.data.message} (${res.data.count} students)`);
